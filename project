@@ -1,0 +1,51 @@
+[
+  {
+    "id": "28",
+    "name": "Russian Burger",
+    "propellant": "$140",
+    "destination": "Alpha Centauri A",
+    "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8qr5eTIHXQ1VcLHi9FHKG6XbXs4wLBkJb_A&usqp=CAU",
+    "technologyexists": "1"
+  },
+  {
+    "id": "29",
+    "name": " Canadian Burger",
+    "propellant": "$550",
+    "destination": "Proxima Centauri",
+    "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGl9TbsPA-iB-g0AQF0kzzz64tHbTOTVpQQg&usqp=CAU",
+    "technologyexists": "0"
+  },
+  {
+    "id": "30",
+    "name": "Indian Burger",
+    "propellant": "$120",
+    "destination": "Venus",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWeNx48qLsYV9sne4iFA-Y5_5BQfcpVxiWWw&usqp=CAU",
+    "technologyexists": "1"
+  },
+  {
+    "id": "31",
+    "name": "U.S.A Burger",
+    "propellant": "$330",
+    "destination": "Saturn",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUgfhKCp7WFRHOHAEMq17O0JwyYFfkzulBQQ&usqp=CAU",
+    "technologyexists": "0"
+  },
+  {
+    "id": "32",
+    "name": "Colombian Burger",
+    "propellant": "$300",
+    "destination": "Asteroid Belt",
+    "imageurl": "https://images.unsplash.com/photo-1571091655789-405eb7a3a3a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGJ1cmdlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "technologyexists": "1"
+  },
+  {
+    "id": "33",
+    "name": "Italian Burger",
+    "propellant": "$270",
+    "destination": "Canis Majos",
+    "imageurl": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGJ1cmdlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "technologyexists": "0"
+  }
+
+]
